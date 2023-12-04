@@ -1,20 +1,22 @@
 # 브스널컬러
 ### 🧠 집중력 향상을 위한 뇌파 자극 개인 맞춤형 스마트 무드등 💡
-<img width="1920" alt="1" src="https://github.com/ohzzwer1/.github/assets/102468718/c84b9577-af4b-4be5-9e93-1c94e1dcc2e1">
-<img width="1920" alt="2" src="https://github.com/ohzzwer1/.github/assets/102468718/d24b4570-6c73-40d3-bd28-b0338a7011de">
-<img width="1920" alt="3" src="https://github.com/ohzzwer1/.github/assets/102468718/d9b16147-9af4-4cec-a79c-1f6130d20be2">
-<img width="1920" alt="4" src="https://github.com/ohzzwer1/.github/assets/102468718/aaf71898-b8bc-4ac5-88d3-c9cc68c4732e">
-<img width="1920" alt="5" src="https://github.com/ohzzwer1/.github/assets/102468718/85ca3096-c786-47eb-bca5-692ef13667aa">
-<img width="1920" alt="6" src="https://github.com/ohzzwer1/.github/assets/102468718/f8d8025e-a5e2-4034-9a08-351eff92f209">
-<img width="1920" alt="7" src="https://github.com/ohzzwer1/.github/assets/102468718/6ef879ed-4ede-4d87-ad24-1f3f9ccb0b04">
-<img width="1920" alt="8" src="https://github.com/ohzzwer1/.github/assets/102468718/b8ba88b0-f3bc-408d-85c1-a50bf9445350">
-<img width="1920" alt="9" src="https://github.com/ohzzwer1/.github/assets/102468718/0434aa40-5dbe-4a59-900c-28efde7a4e8c">
-<img width="1920" alt="10" src="https://github.com/ohzzwer1/.github/assets/102468718/3e4566d8-4fa5-47e6-837f-2ce1c1ff65ff">
-<img width="1920" alt="11" src="https://github.com/ohzzwer1/.github/assets/102468718/60f1a524-66d6-4dde-a61b-8e2176c08edf">
-<img width="1920" alt="12" src="https://github.com/ohzzwer1/.github/assets/102468718/3ba1571a-1bd0-47a9-a233-4c4d39531ebe">
-<img width="1920" alt="13" src="https://github.com/ohzzwer1/.github/assets/102468718/1e415e26-5507-4191-a18c-23bff5db37e1">
-<img width="1920" alt="14" src="https://github.com/ohzzwer1/.github/assets/102468718/3b26e02c-f2da-47f7-8985-82d671b28dea">
-<img width="1920" alt="15" src="https://github.com/ohzzwer1/.github/assets/102468718/d3773192-834d-4d6e-9333-56b5554f5b8c">
-<img width="1920" alt="16" src="https://github.com/ohzzwer1/.github/assets/102468718/31fff77f-941a-43be-bb7b-aaca8d069164">
-<img width="1920" alt="17" src="https://github.com/ohzzwer1/.github/assets/102468718/3a9c54b1-8ef4-49a5-8871-a492449331d0">
-<img width="1920" alt="19" src="https://github.com/ohzzwer1/.github/assets/102468718/3d8369d2-ed5f-4a29-ade3-5d49e7727bc7">
+
+![1](https://github.com/ohzzwer1/.github/assets/102468718/1ee4b9a1-fb14-4b28-8799-0b293e9e6990)
+![2](https://github.com/ohzzwer1/.github/assets/102468718/6f56fd6c-0207-4325-9047-e2070182d776)
+![3](https://github.com/ohzzwer1/.github/assets/102468718/c14b4357-ab31-4071-9a46-66fe10f966f5)
+![4](https://github.com/ohzzwer1/.github/assets/102468718/02579f44-47f8-4779-91d6-5af5991f5ca3)
+![5](https://github.com/ohzzwer1/.github/assets/102468718/28419484-6de4-46ca-81d3-7252f0be830b)
+![6](https://github.com/ohzzwer1/.github/assets/102468718/77706953-b8b9-4b3f-822e-acc4fa563f77)
+![7](https://github.com/ohzzwer1/.github/assets/102468718/f32a59d8-d18d-40bc-8427-adb33dbf98ae)
+![8](https://github.com/ohzzwer1/.github/assets/102468718/83d863b5-2670-4b00-9d59-52c3267dd1a3)
+![9](https://github.com/ohzzwer1/.github/assets/102468718/4d9e77a0-a3fd-45c7-a297-01b45570bca6)
+![10](https://github.com/ohzzwer1/.github/assets/102468718/be2d8877-3554-4b31-8ad1-e7fe70e7ea4e)
+![11](https://github.com/ohzzwer1/.github/assets/102468718/82d497fb-1ddf-4d4d-bea6-bfae9674482b)
+![12](https://github.com/ohzzwer1/.github/assets/102468718/8f7be90e-cc77-4045-b891-f09d34eb71a1)
+![13](https://github.com/ohzzwer1/.github/assets/102468718/ee2b91b4-bc2a-49f8-b462-52e2acf925ae)
+![14](https://github.com/ohzzwer1/.github/assets/102468718/ad5a04c6-10c3-4228-815c-921145eb1b92)
+![15](https://github.com/ohzzwer1/.github/assets/102468718/c8b0296e-9180-4df8-85ea-22608f78519c)
+![16](https://github.com/ohzzwer1/.github/assets/102468718/d731ff73-5cf5-4f53-9e21-e28acc93d156)
+![17](https://github.com/ohzzwer1/.github/assets/102468718/cca6638f-cf91-4ad8-9e9b-b9b0bb3d51a8)
+![18](https://github.com/ohzzwer1/.github/assets/102468718/8bb56250-5dc2-4b1e-8e4b-4bb832c1491e)
+![19](https://github.com/ohzzwer1/.github/assets/102468718/eb76b8ec-1d79-4937-a90d-b83fdcc95649)
